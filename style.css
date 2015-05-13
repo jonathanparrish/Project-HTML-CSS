@@ -1,0 +1,23 @@
+ul {
+  list-style-type: none;
+  float: right;
+  margin: 0;
+  padding: 0;
+}
+li {
+  display: inline;
+}
+
+
+img {
+  position: fixed;
+  left: 500px;
+  top: 250px;
+
+}
+.search_bar {
+  margin-left: 425px;
+}
+.search_button {
+  margin-left: 575px;
+}
